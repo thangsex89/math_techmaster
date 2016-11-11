@@ -41,6 +41,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1535901F1DD56A6B0022BFDB /* sorce  */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "sorce ";
+			sourceTree = "<group>";
+		};
 		1564236D1DD44A8D0096FD2A = {
 			isa = PBXGroup;
 			children = (
@@ -74,6 +81,7 @@
 		156423941DD452D60096FD2A /* anh */ = {
 			isa = PBXGroup;
 			children = (
+				1535901F1DD56A6B0022BFDB /* sorce  */,
 				156423901DD4527B0096FD2A /* images.jpeg */,
 				1564238F1DD4527B0096FD2A /* hinh-nen-may-tinh-dep-nhat-ve-thien-nhien1-1024x768.jpg */,
 				1564238E1DD4527A0096FD2A /* 58.jpg */,
@@ -317,6 +325,7 @@
 				1564238A1DD44A8D0096FD2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
